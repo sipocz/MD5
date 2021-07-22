@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<STERILITY_LIB>
+<FILENAME>
+</FILENAME>
+<HASH>2DD717438BB901E135799FB112A046AF</HASH>
+<SOPS>
+<MDATE>2021:Jul:20</MDATE>
+<SOP>
+<UUID>006d4eba-fccb-4031-8738-b8b38d55d36c</UUID>
+<NUMBER>00828_SMVS1_21_R_SY</NUMBER>
+<NAME>Ibandronat 3 mg inj. 3 ml</NAME>
+<FULLNAME>Ibandronat 3 mg injekció 3 ml 5 ml-es fecskendőben</FULLNAME>
+<STERITEST>TZHASY</STERITEST>
+<STERITEST_ACCESSORY>N/A</STERITEST_ACCESSORY>
+<COMMENT>
+</COMMENT>
+<REVISION>01</REVISION>
+<STATUS>Approved</STATUS>
+<SEQUENCE>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>TZHASY felszerelése, pumpa zárása</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>80 minta, FTM, SCB, Fluid-A fertőtlenítve, bekészítve</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>minden FTM, SCB, Fluid-A bontásakor műanyag kupak le, gumidugó fertőtlenítése</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>csövek nyitva, piros, sárga  dugók nincsenek felrakva, kék dugó az SS csatlakozójában</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>Fluid-A: műanyag kupak le, gumidugó fertőtlenítése</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>PreWetting</TYPE>
+<SPEED>50</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>kaniszterenként 50 ml Fluid-A betöltése, piros dugók fel, 25 ml szűrése, piros dugók le</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>kék dugó ki, fecskendő be, kézzel lassan benyomni a mintát a csőbe</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>ha a fecskendő kiürül,  fecskendőcsere az utolsó fecskendőig</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Filtration</TYPE>
+<SPEED>20</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>Fluid-A és 20 minta betöltése, utolsó fecskendő benn marad</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Filtration</TYPE>
+<SPEED>20</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>piros dugók fel, betöltött minta szűrése, piros dugók le</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Rinsing</TYPE>
+<SPEED>100</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>kaniszterenként100 ml Fluid-A betöltése, piros dugó fel, szűrés, piros dugók le</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>piros csipesz lezárása a tű melletti csővég közelében</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>befertőzés: 100 ml Fluid-A befertőzése &lt;=100 cfu/0,1ml mo. szuszpenzióval</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Filtration</TYPE>
+<SPEED>100</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>100 ml befertőzött Fluid-A betöltése, piros dugó fel, szűrés, piros dugó le</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>sárga dugó fel a nyitott csövű (fehér csipeszes) kaniszteren</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>MediaTransfer</TYPE>
+<SPEED>60</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>SCB betöltése: Bac. sp. / gombák (Asp. br.; Cand. alb.) szűrése után, vagy lásd 17. lépést</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>MediaTransfer</TYPE>
+<SPEED>30</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>FTM betöltése: baktériumok (Staph. a.; Ps. ae.; Bac. sp.; Clost. sp.) szűrése után</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>fehér csipesz lezárása a tű melletti csővég közelében, piros csipesz nyitása </COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>100 ml Fluid-A befertőzése &lt;=100 cfu/0,1ml egy még nem vizsgált mo. szuszpenzióval</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Rinsing</TYPE>
+<SPEED>100</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>100 ml befertőzött Fluid-A betöltése, piros dugó fel, szűrés, piros dugó le</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>sárga dugó fel a nyitott csövű (piros csipeszes) kaniszteren</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>MediaTransfer</TYPE>
+<SPEED>60</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>SCB betöltése: Bac. sp. / gombák (Asp. br.; Cand. alb.) szűrése után, vagy lásd 23. lépést</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>MediaTransfer</TYPE>
+<SPEED>30</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>FTM betöltése: baktériumok (Staph. a.; Ps. ae.; Bac. sp.; Clost. sp.) szűrése után</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>csipeszek lezárása a kanisztereknél, csövek levágása, kanioszterek lezárása, eltávolítása</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>1-24 lépés ismételve minden mikroorganizmus vonatkozásában</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>CanisterClosing</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>pumpafej nyitása</COMMENT>
+<REGULATION>False</REGULATION>
+<SYRINGE>True</SYRINGE>
+<SYRINGEDELAY>3</SYRINGEDELAY>
+</STEP>
+</SEQUENCE>
+</SOP>
+</SOPS>
+</STERILITY_LIB>

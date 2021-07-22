@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<STERILITY_LIB>
+<FILENAME>
+</FILENAME>
+<HASH>1887240F7DBEB9B4E55A65CE363E1EBA</HASH>
+<SOPS>
+<MDATE>2021:Jul:20</MDATE>
+<SOP>
+<UUID>a9ec9e05-460d-46b5-bfaf-e8885289ec71</UUID>
+<NUMBER>NK_FD_SMV_21_E_AL</NUMBER>
+<NAME>Negatív_kontroll_Fluid-D_AL1</NAME>
+<FULLNAME>
+</FULLNAME>
+<STERITEST>TZHALA</STERITEST>
+<STERITEST_ACCESSORY>N/A</STERITEST_ACCESSORY>
+<COMMENT>
+</COMMENT>
+<REVISION>01</REVISION>
+<STATUS>Approved</STATUS>
+<SEQUENCE>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>TZHALA szerelék felszerelése, pumpa zárása</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>100 ml FTM, 100 ml SCB, 2x300 ml Fluid-D fertőtlenítve, bekészítve</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>minden FTM, SCB, Fluid-D bontásakor műanyag kupak le, gumidugó fertőtlenítése</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>piros csipesz zárása, fehér csipesz nyitása, piros és sárga dugók nincsen felrakva</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Rinsing</TYPE>
+<SPEED>50</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>100 ml Fluid-D betöltése, piros dugók fel, szűrés, piros dugók le</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Rinsing</TYPE>
+<SPEED>75</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>2x(100 ml Fluid-D betöltése, piros dugók fel, szűrés, piros dugók le)</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>sárga dugó fel a fehér csipeszes kaniszterre</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>MediaTransfer</TYPE>
+<SPEED>60</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>100 ml SCB tápoldat betöltése a kaniszterbe</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>piros csipesz nyitása, fehér csipesz zárása  tű melletti csővég közelében</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Rinsing</TYPE>
+<SPEED>50</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>100 ml Fluid-D betöltése, piros dugók fel, szűrés, piros dugók le</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Rinsing</TYPE>
+<SPEED>75</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>2x(100 ml Fluid-D betöltése, piros dugók fel, szűrés, piros dugók le)</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>sárga dugó fel a piros csipeszes kaniszterre</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>MediaTransfer</TYPE>
+<SPEED>30</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>100 ml FTM tápoldat betöltése a kaniszterbe</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>csipeszek zárása a kanisztereknél, csövek levágása, kaniszterek lezárása, eltávolítása</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>CanisterClosing</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>pumpafej nyitása</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+</SEQUENCE>
+</SOP>
+</SOPS>
+</STERILITY_LIB>

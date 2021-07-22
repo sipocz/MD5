@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<STERILITY_LIB>
+<FILENAME>
+</FILENAME>
+<HASH>DC799169A6281E38DBD56D5F7D239A97</HASH>
+<SOPS>
+<MDATE>2021:Jul:20</MDATE>
+<SOP>
+<UUID>f53cd589-befd-4a84-a96e-2d5ef0c767f4</UUID>
+<NUMBER>NK_SMV_21_E_AL</NUMBER>
+<NAME>Negatív kontrollAL3</NAME>
+<FULLNAME>
+</FULLNAME>
+<STERITEST>TZHALA</STERITEST>
+<STERITEST_ACCESSORY>N/A</STERITEST_ACCESSORY>
+<COMMENT>
+</COMMENT>
+<REVISION>03</REVISION>
+<STATUS>Approved</STATUS>
+<SEQUENCE>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>TZHALA szerelék felszerelése, pumpa zárása</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>FTM, TSB/SCB, Fluid-A fertőtlenítve, bekészítve</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT> csövek nyitva, piros és sárga dugók nincsenek felrakva</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>PreWetting</TYPE>
+<SPEED>50</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>előnedvesítéshez gumidugó fertőtlenítése, kaniszterenként 50 ml Fluid-A betöltése</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>PreWetting</TYPE>
+<SPEED>50</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>előnedvesítés: piros dugók fel, 2x50 ml Fluid-A szűrése</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Rinsing</TYPE>
+<SPEED>50</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>öblítés1: piros dugók le, kaniszterenként100 ml Fluid-A betöltése</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Rinsing</TYPE>
+<SPEED>50</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>öblítés1: piros dugók fel, kaniszterenként 100 ml Fluid-A szűrése</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Rinsing</TYPE>
+<SPEED>50</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>öblítés2: piros dugók le, kaniszterenként 100 ml Fluid-A betöltése</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Rinsing</TYPE>
+<SPEED>50</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>öblítés2: piros dugók fel, kaniszterenként 100 ml Fluid-A szűrése</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>piros dugók le, sárga dugók fel, piros csipesz lezárása a tű melletti csővég közelében</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>MediaTransfer</TYPE>
+<SPEED>60</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>100 ml TSB/SCB gumidugó fertőtlenítése, tápoldat betöltése a kaniszterbe</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>fehér csipesz lezárása a tű melletti csővég közelében, piros csipesz nyitása</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>MediaTransfer</TYPE>
+<SPEED>30</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>100 ml FTM gumidugó fertőtlenítése, tápoldat betöltése a kaniszterbe</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>Information</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>csipeszek lezárása a kanisztereknél </COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+<STEP>
+<TYPE>CanisterClosing</TYPE>
+<SPEED>0</SPEED>
+<TIMER>0</TIMER>
+<COMMENT>pumpafej nyitása a csövek levágása, kaniszterek lezárása előtt</COMMENT>
+<REGULATION>True</REGULATION>
+<SYRINGE>False</SYRINGE>
+<SYRINGEDELAY>0</SYRINGEDELAY>
+</STEP>
+</SEQUENCE>
+</SOP>
+</SOPS>
+</STERILITY_LIB>
